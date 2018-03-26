@@ -1,0 +1,2 @@
+# Rentalz
+Phonegap Rentalz App
